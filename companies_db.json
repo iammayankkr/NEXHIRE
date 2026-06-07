@@ -1,0 +1,98 @@
+[
+  {
+    "id": "comp_google",
+    "name": "Google",
+    "logoUrl": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=100&h=100&fit=crop&crop=faces",
+    "jobRole": "Software Engineer",
+    "packageLpa": 45,
+    "minCgpa": 8.00,
+    "eligibleBranches": [
+      "Computer Science & Engineering",
+      "Data Science & AI",
+      "Mathematical Physics"
+    ],
+    "requiredSkills": [
+      "Algorithms",
+      "Data Structures",
+      "Go",
+      "Distributed Systems"
+    ],
+    "applicationDeadline": "2026-09-30",
+    "jobDescription": "Google is seeking Software Engineers to work on challenging problems in areas like distributed systems, machine learning, and scalable backend platforms.",
+    "openPositions": 8,
+    "createdAt": "2026-06-04T11:52:55.707Z",
+    "updatedAt": "2026-06-04T11:52:55.707Z"
+  },
+  {
+    "id": "comp_microsoft",
+    "name": "Microsoft",
+    "logoUrl": "https://images.unsplash.com/photo-1625014020903-e329f586c990?w=100&h=100&fit=crop&crop=faces",
+    "jobRole": "Software Developer",
+    "packageLpa": 42,
+    "minCgpa": 7.50,
+    "eligibleBranches": [
+      "Computer Science & Engineering",
+      "Data Science & AI",
+      "Electronic Engineering"
+    ],
+    "requiredSkills": [
+      "OS Dev",
+      "C++",
+      "C#",
+      "Azure Cloud"
+    ],
+    "applicationDeadline": "2026-10-15",
+    "jobDescription": "Join Microsoft to build innovative software solutions. Focus on core cloud engineering, operating system internals, and developer tools.",
+    "openPositions": 12,
+    "createdAt": "2026-06-04T11:52:55.707Z",
+    "updatedAt": "2026-06-04T11:52:55.707Z"
+  },
+  {
+    "id": "comp_amazon",
+    "name": "Amazon",
+    "logoUrl": "https://images.unsplash.com/photo-1606761568772-2e11914f110e?w=100&h=100&fit=crop&crop=faces",
+    "jobRole": "Software Development Engineer (SDE)",
+    "packageLpa": 38,
+    "minCgpa": 7.00,
+    "eligibleBranches": [
+      "Computer Science & Engineering",
+      "Data Science & AI",
+      "Information Technology"
+    ],
+    "requiredSkills": [
+      "Java",
+      "Python",
+      "Data Structures",
+      "Algorithms"
+    ],
+    "applicationDeadline": "2026-11-01",
+    "jobDescription": "Amazon SDIs and SDEs design and build scalable services that satisfy millions of active customers. Tackle machine learning and distributed systems problems.",
+    "openPositions": 15,
+    "createdAt": "2026-06-04T11:52:55.707Z",
+    "updatedAt": "2026-06-04T11:52:55.707Z"
+  },
+  {
+    "id": "comp_adobe",
+    "name": "Adobe",
+    "logoUrl": "https://images.unsplash.com/photo-1591453089816-0fbb971b454c?w=100&h=100&fit=crop&crop=faces",
+    "jobRole": "Software Engineer (Creative Cloud)",
+    "packageLpa": 35,
+    "minCgpa": 8.00,
+    "eligibleBranches": [
+      "Computer Science & Engineering",
+      "Data Science & AI",
+      "Information Technology"
+    ],
+    "requiredSkills": [
+      "C++",
+      "JavaScript",
+      "UI/UX Principles",
+      "Creative Tools"
+    ],
+    "applicationDeadline": "2026-11-20",
+    "jobDescription": "Adobe is hiring software engineers to design, build, and optimize the next generation of creative and document solutions on desktop and web.",
+    "openPositions": 7,
+    "createdAt": "2026-06-04T11:52:55.707Z",
+    "updatedAt": "2026-06-04T11:52:55.707Z"
+  }
+]

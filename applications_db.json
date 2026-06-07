@@ -1,0 +1,58 @@
+[
+  {
+    "id": "app_1",
+    "studentId": "stu_3",
+    "companyId": "comp_google",
+    "status": "Selected",
+    "applicationDate": "2026-06-03T18:34:29.846Z"
+  },
+  {
+    "id": "app_2",
+    "studentId": "stu_7",
+    "companyId": "comp_google",
+    "status": "Shortlisted",
+    "applicationDate": "2026-06-04T18:34:29.846Z"
+  },
+  {
+    "id": "app_3",
+    "studentId": "stu_6",
+    "companyId": "comp_microsoft",
+    "status": "Selected",
+    "applicationDate": "2026-06-02T11:20:00.000Z"
+  },
+  {
+    "id": "app_4",
+    "studentId": "stu_4",
+    "companyId": "comp_microsoft",
+    "status": "Interview Scheduled",
+    "applicationDate": "2026-06-03T09:15:00.000Z"
+  },
+  {
+    "id": "app_5",
+    "studentId": "stu_8",
+    "companyId": "comp_microsoft",
+    "status": "Applied",
+    "applicationDate": "2026-06-04T14:40:00.000Z"
+  },
+  {
+    "id": "app_6",
+    "studentId": "stu_2",
+    "companyId": "comp_amazon",
+    "status": "Selected",
+    "applicationDate": "2026-06-01T10:00:00.000Z"
+  },
+  {
+    "id": "app_7",
+    "studentId": "stu_5",
+    "companyId": "comp_amazon",
+    "status": "Rejected",
+    "applicationDate": "2026-06-02T16:30:00.000Z"
+  },
+  {
+    "id": "app_8",
+    "studentId": "stu_1",
+    "companyId": "comp_adobe",
+    "status": "Applied",
+    "applicationDate": "2026-06-04T17:05:00.000Z"
+  }
+]

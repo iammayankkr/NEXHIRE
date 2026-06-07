@@ -1,0 +1,102 @@
+[
+  {
+    "id": "stu_admin_1",
+    "name": "Dr. Rajesh Verma",
+    "email": "tpo@university.edu.in",
+    "studentId": "ADMIN2026",
+    "department": "Training & Placement Cell",
+    "enrollmentYear": 2024,
+    "gpa": 9.5,
+    "role": "admin",
+    "createdAt": "2026-06-04T11:52:55.707Z",
+    "passwordHash": "$2b$10$bE0Zpu.zbEfXPGb0nIFvGO1qOQd6k.7Tggq8BcGcTvmWhpy534vVC"
+  },
+  {
+    "id": "stu_1",
+    "name": "Ashish Jha",
+    "email": "ashish.jha@university.edu",
+    "studentId": "STU24056",
+    "department": "Computer Science & Engineering",
+    "enrollmentYear": 2024,
+    "gpa": 8.85,
+    "createdAt": "2026-06-04T11:52:55.513Z",
+    "passwordHash": "$2b$10$bE0Zpu.zbEfXPGb0nIFvGO1qOQd6k.7Tggq8BcGcTvmWhpy534vVC"
+  },
+  {
+    "id": "stu_2",
+    "name": "Sarah Chen",
+    "email": "schen@university.edu",
+    "studentId": "STU2024018",
+    "department": "Data Science & AI",
+    "enrollmentYear": 2024,
+    "gpa": 9.10,
+    "createdAt": "2026-06-04T11:52:55.618Z",
+    "passwordHash": "$2b$10$bE0Zpu.zbEfXPGb0nIFvGO1qOQd6k.7Tggq8BcGcTvmWhpy534vVC"
+  },
+  {
+    "id": "stu_3",
+    "name": "Abhishek Sharma",
+    "email": "abhishek.s@btech.university.edu",
+    "studentId": "STU24001",
+    "department": "Computer Science & Engineering",
+    "enrollmentYear": 2024,
+    "gpa": 9.12,
+    "createdAt": "2026-06-04T11:52:55.618Z",
+    "passwordHash": "$2b$10$bE0Zpu.zbEfXPGb0nIFvGO1qOQd6k.7Tggq8BcGcTvmWhpy534vVC"
+  },
+  {
+    "id": "stu_4",
+    "name": "Ananya Deshmukh",
+    "email": "ananya.d@btech.university.edu",
+    "studentId": "STU24018",
+    "department": "Data Science & AI",
+    "enrollmentYear": 2024,
+    "gpa": 8.65,
+    "createdAt": "2026-06-04T11:52:55.618Z",
+    "passwordHash": "$2b$10$bE0Zpu.zbEfXPGb0nIFvGO1qOQd6k.7Tggq8BcGcTvmWhpy534vVC"
+  },
+  {
+    "id": "stu_5",
+    "name": "Vikram Rathi",
+    "email": "vikram.r@btech.university.edu",
+    "studentId": "STU24015",
+    "department": "Computer Science & Engineering",
+    "enrollmentYear": 2024,
+    "gpa": 7.82,
+    "createdAt": "2026-06-04T11:52:55.618Z",
+    "passwordHash": "$2b$10$bE0Zpu.zbEfXPGb0nIFvGO1qOQd6k.7Tggq8BcGcTvmWhpy534vVC"
+  },
+  {
+    "id": "stu_6",
+    "name": "Priyanka Nair",
+    "email": "priyanka.n@btech.university.edu",
+    "studentId": "BTECH24021",
+    "department": "Electronic Engineering",
+    "enrollmentYear": 2024,
+    "gpa": 8.94,
+    "createdAt": "2026-06-04T11:52:55.618Z",
+    "passwordHash": "$2b$10$bE0Zpu.zbEfXPGb0nIFvGO1qOQd6k.7Tggq8BcGcTvmWhpy534vVC"
+  },
+  {
+    "id": "stu_7",
+    "name": "Rohan Verma",
+    "email": "rohan.v@btech.university.edu",
+    "studentId": "CS24015",
+    "department": "Computer Science & Engineering",
+    "enrollmentYear": 2024,
+    "gpa": 9.42,
+    "createdAt": "2026-06-04T11:52:55.618Z",
+    "passwordHash": "$2b$10$bE0Zpu.zbEfXPGb0nIFvGO1qOQd6k.7Tggq8BcGcTvmWhpy534vVC"
+  },
+  {
+    "id": "stu_8",
+    "name": "Kabir Mehta",
+    "email": "kabir.m@btech.university.edu",
+    "studentId": "STU2024019",
+    "department": "Mechanical Engineering",
+    "enrollmentYear": 2024,
+    "gpa": 7.15,
+    "createdAt": "2026-06-04T11:52:55.618Z",
+    "passwordHash": "$2b$10$bE0Zpu.zbEfXPGb0nIFvGO1qOQd6k.7Tggq8BcGcTvmWhpy534vVC"
+  }
+]

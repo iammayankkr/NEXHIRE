@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300..800;1,300..800&family=JetBrains+Mono:ital,wght@0,300..700;1,300..700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+/* Smooth transitions for theme changes globally */
+* {
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+
+@layer utilities {
+  /* Subtle keyframes for custom notifications */
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-4px); }
+    75% { transform: translateX(4px); }
+  }
+  .animate-shake {
+    animation: shake 0.2s ease-in-out 0s 2;
+  }
+}
+
+html {
+  background-color: #020617; /* slate-950 */
+  color-scheme: dark;
+}
+
+/* Global input[type="date"] overrides for robust dark mode support */
+input[type="date"] {
+  color-scheme: dark !important;
+}
+
+/* Calendar input picker custom indicator styles */
+input[type="date"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  border-radius: 6px;
+  padding: 4px;
+  filter: invert(1) brightness(1.2) contrast(1.1) !important;
+  transition: background-color 150ms ease, filter 150ms ease;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator:hover {
+  background-color: rgba(255, 255, 255, 0.15) !important;
+}
+
+

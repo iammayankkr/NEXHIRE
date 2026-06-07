@@ -1,0 +1,6 @@
+{
+  "name": "NEXHIRE",
+  "description": "Modern campus placement, recruitment, application tracking, and career services platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

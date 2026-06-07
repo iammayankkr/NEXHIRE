@@ -1,0 +1,13 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <rect width="100%" height="100%" rx="16" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+  <g transform="translate(50, 42)">
+    <circle cx="0" cy="0" r="14" fill="none" stroke="#2563EB" stroke-width="3" />
+    <circle cx="0" cy="-14" r="5" fill="#EF4444" />
+    <circle cx="12" cy="-7" r="5" fill="#F59E0B" />
+    <circle cx="12" cy="7" r="5" fill="#10B981" />
+    <circle cx="0" cy="14" r="5" fill="#3B82F6" />
+    <circle cx="-12" cy="7" r="5" fill="#8B5CF6" />
+    <circle cx="-12" cy="-7" r="5" fill="#EC4899" />
+  </g>
+  <text x="50" y="80" font-family="system-ui, sans-serif" font-size="12" font-weight="900" fill="#1E293B" text-anchor="middle" letter-spacing="0.5">wipro</text>
+</svg>

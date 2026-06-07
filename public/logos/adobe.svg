@@ -1,0 +1,5 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <rect width="100%" height="100%" rx="16" fill="#FA0F00" />
+  <path d="M50 18 L 22 76 L 41 76 L 48 58 L 57 58 L 57 50 L 51 50 L 50 46 L 59 46 L 59 38 L 50 18 Z" fill="#FFFFFF" />
+  <text x="70" y="70" font-family="system-ui, sans-serif" font-size="12" font-weight="900" fill="#FFFFFF" text-anchor="middle">Adobe</text>
+</svg>
