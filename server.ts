@@ -1316,11 +1316,17 @@ async function runServer() {
     res.status(404).json({ error: "API Route Not Found" });
   });
 
-  app.listen(PORT, "0.0.0.0", () => {
-    console.log(`[Launch Success] Student Auth Server running at http://0.0.0.0:${PORT}`);
-  });
+  if (process.env.VERCEL !== "1") {
+    app.listen(PORT, "0.0.0.0", () => {
+      console.log(`[Launch Success] Student Auth Server running at http://0.0.0.0:${PORT}`);
+    });
+  } else {
+    console.log("[Vite Engine] Serverless Mode: Vercel detected. Bypassing port listening.");
+  }
 }
 
 runServer().catch((error) => {
   console.error("[Startup Failure] Express Node cluster crashed:", error);
 });
+
+export default app;
