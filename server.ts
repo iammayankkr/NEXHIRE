@@ -3,7 +3,7 @@ import path from "path";
 import { createServer as createViteServer } from "vite";
 import jwt from "jsonwebtoken";
 import bcrypt from "bcryptjs";
-import { db, StudentRecord, getDbStatus, isMongoConnected, MongoStudent } from "./server/db";
+import { db, StudentRecord, getDbStatus, isMongoConnected, MongoStudent } from "./backend/db";
 import { Course, StudentDashboardData } from "./src/types";
 import { checkBranchEligibility } from "./src/branchUtils";
 
